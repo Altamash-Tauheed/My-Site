@@ -1,0 +1,160 @@
+body {
+  color: #867070;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #867070;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #867070;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #D5B4B4;
+  font-size: 152%;
+}
+
+#work {
+  font-family: "Montserrat", sans-serif;
+  color: #D5B4B4;
+  font-size: 130%;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #f5ebeb;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.bottom-container {
+  background-color: #E4D0D0;
+  position: relative;
+  padding: 40px;
+  margin-top: 10%;
+}
+
+a {
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  margin: auto 25px;
+  color: #867070b1;
+}
+
+a:hover {
+  color: #867070;
+}
+
+.top-cloud {
+  width: 170px;
+  position: absolute;
+  right: 170px;
+  top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.react {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-cloud {
+  width: 170px;
+  position: absolute;
+  left: 130px;
+  top: 300px;
+}
+
+.land {
+  width: 70%;
+  margin: 70px auto -4px auto;
+}
+
+.my-emoji {
+    width: 10%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 50px;
+}
+
+
+hr {
+  border-color: #e4d0d0;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+  font-size: 105%;
+}
+
+.btn {
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: "Montserrat", sans-serif;
+  color: #867070;
+  font-size: 18px;
+  background: #D5B4B4;
+  padding: 15px 22px 15px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #867070a0;
+  text-decoration: none;
+}
+
+.copyright {
+  font-family: 'Roboto Slab', serif;
+  font-size: 14px;
+  margin-top: 3%;
+  color: #867070b1;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.copyright-link {
+  margin-left: 2px;
+  margin-right: 2px;
+}
